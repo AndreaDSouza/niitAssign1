@@ -1,0 +1,23 @@
+.container{
+    background-color: darkgray;
+}
+
+header{
+    text-align: center;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+.navbar{
+    margin: 0;
+}
+
+.nav-cont{
+    background-color: black;
+}
+
+.car-img{
+    height: 90;
+}
